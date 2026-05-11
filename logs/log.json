@@ -1,0 +1,8 @@
+{
+    "episodes": 2000,
+    "learning_rate": 0.1,
+    "discount_factor": 0.9,
+    "epsilon": 0.3,
+    "average_reward": 85.7545,
+    "average_steps": 14.993
+}
